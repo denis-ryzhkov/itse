@@ -36,7 +36,7 @@ What ideas I selected to follow:
 
 * Value for user.
     * Sometimes I make solutions too beautiful inside, so reminding myself the main goal "Value for user" is helpful.
-* DRY - Do not Repeat Yourself.
+* DRY - Don't Repeat Yourself.
     * "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system".
     * Design principle I use by default for everything. Aware it should not be over-used to avoid breaking KISS.
 * KISS - Keep it simple.
