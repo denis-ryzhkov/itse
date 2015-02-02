@@ -62,7 +62,7 @@ And here is how:
 * Experiment! Try what will happen.
 * Yes, direct answer from someone you know can save lots of your time, but it should be emergency fallback, not starting point, because in this case:
     * You waste time of the teacher.
-    * You miss related experience you could run into while searching for answer yourself.
+    * You miss related experience you could run into while searching for answer by yourself.
     * You don't train your learning muscle.
     * You follow only one existing opinion instead of a chance to build your own opinion and to invent something beautiful.
 
